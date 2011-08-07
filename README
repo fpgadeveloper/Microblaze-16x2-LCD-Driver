@@ -1,0 +1,15 @@
+Microblaze 16x2 LCD Driver
+--------------------------
+
+This EDK project is based on the tutorial by FPGA Developer:
+
+http://www.fpgadeveloper.com/2008/10/microblaze-16x2-lcd-driver.html
+
+It allows you to write text on a 16x2 character LCD by using a
+simple Microblaze program written in C.
+
+You are free to use this code in your own designs, but please 
+acknowledge my work by leaving a link to the website. Thanks.
+
+Jeff Johnson
+http://www.fpgadeveloper.com
